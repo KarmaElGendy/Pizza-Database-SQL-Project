@@ -60,7 +60,6 @@ Run the scripts in your SQL environment:
 Once the database is set up, you can run the queries from the queries.sql file to extract useful insights.
 
 ### Queries
-Here are a few queries you can run:
 
 #### Show All Orders and Customer Details
 ```
